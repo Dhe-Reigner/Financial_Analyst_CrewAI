@@ -1,0 +1,8 @@
+crewai 
+crewai-tools 
+ollama 
+mcp 
+pydantic 
+yfinance 
+pandas 
+matplotlib
